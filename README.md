@@ -10,6 +10,18 @@ Financial news can coincide with substantial movements in stock prices. This pro
 
 The analysis focuses on observable relationships rather than assuming that news events directly cause price movements.
 
+## 📂 Data Sources
+
+This project uses the following data sources:
+
+- **Financial news and company mentions:** [FinDailyKG — GDELT-Based Financial News & Mentions (Kaggle)](https://www.kaggle.com/datasets/verracodeguacas/findkg-gdelt-based-financial-news-and-mentions)
+- **Original news data provider:** [The GDELT Project](https://www.gdeltproject.org/data.html)
+- **Historical stock prices:** [Yahoo Finance](https://finance.yahoo.com/)
+
+The Kaggle dataset provides the financial news data used in this project. Please refer to the original dataset page for its creator, documentation, and licence.
+
+**Attribution:** Credit the dataset creator and the original source where required by their respective licence and usage terms.
+
 ## 🎯 Business Questions
 
 - How do stocks react around major news events?
